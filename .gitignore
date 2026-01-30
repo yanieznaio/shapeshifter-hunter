@@ -1,0 +1,10 @@
+# Godot
+.import/
+.export/
+*.tmp
+*.import
+*.log
+
+# Optional: ignore local config
+.godot/
+
